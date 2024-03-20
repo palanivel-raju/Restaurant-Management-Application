@@ -56,3 +56,11 @@ What will be 10 requirements of the system, according to you? Do not worry about
   <br>
 </Details>
 
+
+#### what we learn new here?
+ 3. The menu will have different menu sections, containing different menu items.
+    <br>
+    we are going to implement this using decorater design pattern, For want to learn more [click here](https://refactoring.guru/design-patterns/decorator)
+    <br>
+    Implemented in this code [click here](https://github.com/palanivel-raju/Restaurant-Management-Application/tree/master/src/main/java/com/projects/restaurantdesign/Decorater)
+
